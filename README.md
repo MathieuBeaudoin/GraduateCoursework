@@ -5,4 +5,5 @@ In the fall of 2021, I started a part-time graduate degree in mathematical and c
 
 Files:
 - "L-shaped_algorithm_JULIA.ipynb" -> (Julia language) implements the multicut L-shaped algorithm to solve a two-stage stochastic optimization problem
-- more coming, can't publish the others just yet...
+- "Retrospective_Approximation_JULIA.ipynb" -> (Julia language) implements Monte Carlo approximation using the "retrospective approximation" variant of the sample average approximation approach
+- will soon publish a third file (not allowed to just yet...)
