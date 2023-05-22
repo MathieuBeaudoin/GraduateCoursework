@@ -2,7 +2,7 @@
 
 In the fall of 2021, I started a part-time graduate degree in mathematical and computational finance at the University of Montreal. I have decided to publish some of my more interesting coursework here.
 
-## IFT6512
+## IFT6512 (Fall 2021 semester)
 Applied stochastic optimization problems
 
 Files:
@@ -10,7 +10,7 @@ Files:
 - `Retrospective_Approximation_JULIA.ipynb` [Julia] -> implements Monte Carlo approximation using the "retrospective approximation" variant of the sample average approximation approach
 - `Importance_Sampling_PYTHON.ipynb` [Python] -> implements a Monte Carlo optimization on real electricity production/usage data, comparing "naive" sampling to an approach proposed by Dantzig and Glynn in 1990, "importance" sampling
 
-## IFT6521
+## IFT6521 (Winter 2023 semester)
 Dynamic programming problems  
 
 Files:
